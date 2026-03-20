@@ -17,7 +17,7 @@ Claude.ai上でアーティファクトとして動作します。
 5. 「AI分析・改善策」タブや「担当者別」タブのAI評価ボタンで、Claude APIによる分析を実行できます
 
 下記URL上で実行可能です
-https://claude.ai/public/artifacts/6f39d23b-2cf5-4ab2-ab17-75f155737680
+https://claude.ai/public/artifacts/779bac73-a9dc-4251-b3f6-2b5c77fd7172
 
 ## 主な機能
 
