@@ -218,7 +218,7 @@ function AiAnalysisPanel({ data, mapping, aiResult, onAiResult }) {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          model: "claude-sonnet-4-20250514",
+          model: "claude-sonnet-4-6",
           max_tokens: 4096,
           messages: [{
             role: "user",
@@ -476,7 +476,7 @@ function MemberEvalPanel({ data, mapping, memberEval, onMemberEval }) {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          model: "claude-sonnet-4-20250514",
+          model: "claude-sonnet-4-6",
           max_tokens: 4096,
           messages: [{
             role: "user",
